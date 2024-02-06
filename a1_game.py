@@ -1,25 +1,3 @@
-"""A1: The main program for the Raccoon Raiders game.  There are no tasks for
-you to do in this module
-
-CSC148, Winter 2022
-
-This code is provided solely for the personal and private use of students
-taking the CSC148 course at the University of Toronto. Copying for purposes
-other than this use is expressly prohibited. All forms of distribution of this
-code, whether as given or with any changes, are expressly prohibited.
-
-Authors: Diane Horton, Sadia Sharmin, Dina Sabie,
-         Sophia Huynh, and Jonathan Calver
-
-All of the files in this directory and all subdirectories are:
-Copyright (c) 2022 Diane Horton, Sadia Sharmin, Dina Sabie,
-                   Sophia Huynh, and Jonathan Calver.
-
-=== Module Description ===
-This module contains the main program that calls upon the classes specified in
-a1.py.
-"""
-
 import sys
 from random import random, shuffle
 from typing import Dict, List, Optional

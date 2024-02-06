@@ -1,23 +1,3 @@
-"""A1: Raccoon Raiders game objects (all tasks)
-
-CSC148, Winter 2022
-
-This code is provided solely for the personal and private use of students
-taking the CSC148 course at the University of Toronto. Copying for purposes
-other than this use is expressly prohibited. All forms of distribution of this
-code, whether as given or with any changes, are expressly prohibited.
-
-Authors: Diane Horton, Sadia Sharmin, Dina Sabie, Jonathan Calver, and
-Sophia Huynh.
-
-All of the files in this directory and all subdirectories are:
-Copyright (c) 2022 Diane Horton, Sadia Sharmin, Dina Sabie, Jonathan Calver,
-and Sophia Huynh.
-
-=== Module Description ===
-This module contains all of the classes necessary for a1_game.py to run.
-"""
-
 from __future__ import annotations
 
 from random import shuffle
